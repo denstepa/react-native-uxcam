@@ -1,5 +1,5 @@
 {
-  "name": "RNUXCam",
+  "name": "react-native-uxcam",
   "version": "0.1.0",
   "files": ["src", "ios"],
   "main": "src/index.js",
